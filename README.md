@@ -5,5 +5,5 @@
   <br><br>
   Seriously. It's my full time job. Drawing Octocats. We live in a weird time.<br>
   <br>
-  Outside of my work for GitHub, I'm working on a <a href="www.instagram.com/wowshortfilm"> stop motion animated film </a> with my wife.
+  Outside of my work for GitHub, I'm working on a <a href="www.instagram.com/wowshortfilm"> stop motion animated film </a> with my wife that you should check out:)
 
