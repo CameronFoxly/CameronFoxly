@@ -1,9 +1,8 @@
 <p align="center">
   <b> Hello! </b> <br> 
-  My name is Cameron and draw silly things professionally at GitHub. Generally, I make Octocats do things. Things like this: <br>
+  My name is Cameron and draw moving images professionally at GitHub. Generally, I make Octocats do things. Things like this: <br>
   <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif"></img>
-  <br><br>
-  Seriously. It's my full time job. Drawing Octocats. We live in a weird time.<br>
+  <br>
   <br>
   Outside of my work for GitHub, I'm working on a <a href="www.instagram.com/wowshortfilm"> stop motion animated film </a> with my wife that you should check out:)
 
