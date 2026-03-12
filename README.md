@@ -10,5 +10,5 @@
 
   <br>
   <br>
-  Outside of my work for GitHub, I'm working on a <a href="http://www.instagram.com/wowshortfilm"> stop motion animated film </a> with my wife that you should check out:)
+In this new AI era, I've found myself playing with code in a way that I've always wanted to, but wasted too many years of my life learning how to draw intead of learning syntax. As a result, I'm not maintaining my first Open Source project with users: [ASCII Motion](https://ascii-motion.app). Check it out and warm my heart by getting involved in the [repo](https://github.com/CameronFoxly/Ascii-Motion). ❤️
 
